@@ -162,7 +162,7 @@ button {
     padding-bottom: 32px;
 
 
-    color: var(--secondary-text-coor);
+    color: var(--secondary-text-color);
     font-weight: 500;
     font-size: 14px;
     line-height: 1.15;
@@ -180,7 +180,7 @@ button {
     padding-bottom: 32px;
 
 
-    color: var(--secondary-text-coor);
+    color: var(--secondary-text-color);
 }
 
 .header-phone:hover,
@@ -286,6 +286,7 @@ button {
 /* =================team============== */
 .info-section {
     padding-top: 0;
+    padding-bottom:  94px;
 }
 .our-team {
     background-color: var(--secondary-bg-color);
@@ -311,7 +312,7 @@ button {
 
 
 .team-description {
-    color: var(--secondary-text-coor);
+    color: var(--secondary-text-color);
     font-size: 16px;
     line-height: 1.19;
     text-align: center;
@@ -446,7 +447,7 @@ button {
 }
 
 .portfolio-desc {
-    color: var(--secondary-text-coor);
+    color: var(--secondary-text-color);
     font-weight: 400;
     font-size: 16px;
     line-height: 1.88;
